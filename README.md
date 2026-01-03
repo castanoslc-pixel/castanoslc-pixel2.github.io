@@ -1,2 +1,3 @@
-# castanoslc-pixel2.github.io
-castanoslc-pixel2.github.io
+theme: jekyll-theme-minimal
+title: Group Consulting Page
+description: Bookmark this to keep an eye on my project updates!
